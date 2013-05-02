@@ -12,14 +12,14 @@
    <picks>
       <pick>
          <phase>P</phase>
-         <mode>automatic</mode>
+         <mode/>
          <status/>
          <time>2013-04-29T22:53:47.168392Z</time>
-         <weight>1.870411</weight>
-         <network>NZ</network>
-         <station>WPHZ</station>
-         <location>10</location>
-         <channel>EHZ</channel>
+         <weight/>
+          <network>NZ</network>
+          <station>WPHZ</station>
+         <location/>
+         <channel/>
       </pick>
    </picks>
 </event>
