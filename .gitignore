@@ -1,0 +1,11 @@
+target
+doc
+.classpath
+.project
+.settings
+src/main/resources/AwsCredentials.properties
+src/test/resources/AwsCredentials.properties
+.idea
+*.iml
+.s3
+live.properties

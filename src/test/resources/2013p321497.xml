@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<q:quakeml xmlns:q="http://quakeml.org/xmlns/quakeml-rt/1.2" xmlns="http://quakeml.org/xmlns/bed-rt/1.2">
+  <eventParameters publicID="smi:scs/0.6/NA-idp1584">
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.ANWZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>3.1699493</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225436.608195.498639</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="ANWZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp356592</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.917189Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.ANWZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.8968852</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225440.813399.498645</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="ANWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp361808</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.917336Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.DVHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.5483343</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225435.202086.498635</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="DVHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp367024</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.917484Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.DVHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.0598417</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225432.295725.498633</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="DVHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp372240</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.91761Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.KAHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.2383916</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225439.31028.498643</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="KAHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp377456</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.917751Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.PRHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.609731</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225430.292575.498631</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="PRHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp382672</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.917896Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.PRHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>1.8311897</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225427.286361.498629</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="PRHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp387888</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.918016Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.PXZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.5672655</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225437.106997.498641</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="PXZ" locationCode="10" channelCode="HH">smi:scs/0.6/NA-idp393104</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.918153Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.PXZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.2065175</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225436.304207.498637</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="PXZ" locationCode="10" channelCode="HHZ">smi:scs/0.6/NA-idp398288</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.918272Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.TSZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.5058572</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225440.913958.498647</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="TSZ" locationCode="10" channelCode="HHZ">smi:scs/0.6/NA-idp403472</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.918397Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.WPHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.0194681</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225423.356197.498625</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="WPHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp408656</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.918546Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.WPHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>1.8657904</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225423.361989.498627</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="WPHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp413872</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.918687Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.KAHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.5329428</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225444.220871.498653</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="KAHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp419088</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:44.225304Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.TSZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.7602452</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225445.825619.498655</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="TSZ" locationCode="10" channelCode="HH">smi:scs/0.6/NA-idp424304</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:45.830731Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.PRWZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.2332948</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225449.236161.498657</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="PRWZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp429488</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:49.240791Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.PRWZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.0213581</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225451.236394.498659</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="PRWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp434704</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:51.24133Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.BHHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.3776839</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225507.288487.498744</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="BHHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp439920</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:55:07.293106Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.BFZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.2408328</value>
+      </mag>
+      <type>MLv</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225507.298074.498746</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="BFZ" locationCode="10" channelCode="HHZ">smi:scs/0.6/NA-idp445136</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:55:07.30557Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.BFZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.2797214</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225507.309502.498748</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="BFZ" locationCode="10" channelCode="HH">smi:scs/0.6/NA-idp450320</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:55:07.314856Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <stationMagnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.BHHZ">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.5618673</value>
+      </mag>
+      <type>ML</type>
+      <amplitudeID>smi:scs/0.6/Amplitude#20130429225507.317072.498750</amplitudeID>
+      <waveformID networkCode="NZ" stationCode="BHHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp455504</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:55:07.323008Z</creationTime>
+      </creationInfo>
+    </stationMagnitude>
+    <magnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#netMag.ML">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.512669</value>
+        <uncertainty>0.16421272</uncertainty>
+      </mag>
+      <type>ML</type>
+      <methodID>smi:scs/0.6/trimmedmean(25)</methodID>
+      <stationCount>8</stationCount>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.918731Z</creationTime>
+      </creationInfo>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.ANWZ</stationMagnitudeID>
+        <weight>0</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.DVHZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.PRHZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.PXZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.WPHZ</stationMagnitudeID>
+        <weight>0</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.KAHZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.TSZ</stationMagnitudeID>
+        <weight>0.75</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.PRWZ</stationMagnitudeID>
+        <weight>0.75</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.BFZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.ML#NZ.BHHZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+    </magnitude>
+    <magnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#netMag.MLv">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.1897815</value>
+        <uncertainty>0.19193867</uncertainty>
+      </mag>
+      <type>MLv</type>
+      <methodID>smi:scs/0.6/trimmedmean(25)</methodID>
+      <stationCount>8</stationCount>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.918821Z</creationTime>
+      </creationInfo>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.ANWZ</stationMagnitudeID>
+        <weight>0</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.DVHZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.KAHZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.PRHZ</stationMagnitudeID>
+        <weight>0</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.PXZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.TSZ</stationMagnitudeID>
+        <weight>0.75</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.WPHZ</stationMagnitudeID>
+        <weight>0.75</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.PRWZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.BHHZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+      <stationMagnitudeContribution>
+        <stationMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#staMag.MLv#NZ.BFZ</stationMagnitudeID>
+        <weight>1</weight>
+      </stationMagnitudeContribution>
+    </magnitude>
+    <magnitude publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785#netMag.M">
+      <comment/>
+      <originID>smi:scs/0.6/NLL.20130429225437.756854.3816785</originID>
+      <mag>
+        <value>2.1897815</value>
+      </mag>
+      <type>M</type>
+      <methodID>smi:scs/0.6/weightedaverage</methodID>
+      <stationCount>8</stationCount>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scmag@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:41.918904Z</creationTime>
+      </creationInfo>
+    </magnitude>
+    <pick publicID="smi:scs/0.6/20130429.225347.16-NZ.WPHZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:47.168392Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="WPHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idm1312</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:50.416942Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225348.39-NZ.PRHZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:48.39839Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="PRHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp48848</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:49.409997Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225349.53-NZ.DVHZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:49.538396Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="DVHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp54464</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:52.24153Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225349.14-NZ.PXZ.10.HHZ">
+      <time>
+        <value>2013-04-29T22:53:49.148393Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="PXZ" locationCode="10" channelCode="HHZ">smi:scs/0.6/NA-idp60080</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:53.936414Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225349.85-NZ.TSZ.10.HHZ">
+      <time>
+        <value>2013-04-29T22:53:49.850869Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="TSZ" locationCode="10" channelCode="HHZ">smi:scs/0.6/NA-idp65664</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:56.751881Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225350.30-NZ.ANWZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:50.308392Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="ANWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp71248</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:53.434824Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225351.35-NZ.KAHZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:51.358393Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="KAHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp76864</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:55.1443Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225353.78-NZ.PRWZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:53.788394Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="PRWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp82480</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:54.338891Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225359.30-NZ.POWZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:59.308391Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="POWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp88096</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:01.17503Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225353.47-NZ.BFZ.10.HHZ">
+      <time>
+        <value>2013-04-29T22:53:53.478399Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="BFZ" locationCode="10" channelCode="HHZ">smi:scs/0.6/NA-idp93712</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:56.952832Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225353.74-NZ.BHHZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:53.748393Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="BHHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp99296</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:59.767108Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225355.09-NZ.MCHZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:55.094787Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="MCHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp104912</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:53:59.466369Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225406.96-NZ.CPWZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:54:06.968391Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="CPWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp110528</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:14.140347Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225359.47-NZ.TMWZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:53:59.478392Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="TMWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp116144</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:01.182965Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225403.27-NZ.PKVZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:54:03.27839Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="PKVZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp121760</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:10.021509Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="smi:scs/0.6/20130429.225417.79-NZ.PLWZ.10.EHZ">
+      <time>
+        <value>2013-04-29T22:54:17.79839Z</value>
+      </time>
+      <waveformID networkCode="NZ" stationCode="PLWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp127376</waveformID>
+      <methodID>smi:scs/0.6/Trigger</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scautopick@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:23.277744Z</creationTime>
+      </creationInfo>
+    </pick>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225436.608195.498639">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>5.2489925</value>
+        <lowerUncertainty>0.2660893</lowerUncertainty>
+        <upperUncertainty>0.2660893</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:58.803392Z</reference>
+        <begin>-0.064999</begin>
+        <end>0.065</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225350.30-NZ.ANWZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="ANWZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp136368</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:36.608296Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225440.813399.498645">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>2.7990576</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:58.808393Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>59.246425</snr>
+      <pickID>smi:scs/0.6/20130429.225350.30-NZ.ANWZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="ANWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp143664</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:40.813518Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225435.202086.498635">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>1.8550892</value>
+        <lowerUncertainty>0.33620753</lowerUncertainty>
+        <upperUncertainty>0.33620753</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:56.108396Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225349.53-NZ.DVHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="DVHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp151280</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:35.202201Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225432.295725.498633">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>0.60238234</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:56.378395Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>27.963256</snr>
+      <pickID>smi:scs/0.6/20130429.225349.53-NZ.DVHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="DVHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp158480</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:32.295822Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225439.31028.498643">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>0.44092489</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:54:02.508393Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>5.7476131</snr>
+      <pickID>smi:scs/0.6/20130429.225351.35-NZ.KAHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="KAHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp165680</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:39.310548Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225430.292575.498631">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>4.5865145</value>
+        <lowerUncertainty>0.11029661</lowerUncertainty>
+        <upperUncertainty>0.11029661</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:55.603391Z</reference>
+        <begin>-0.275</begin>
+        <end>0.275</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225348.39-NZ.PRHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="PRHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp173360</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:30.292664Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225427.286361.498629">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>0.7637327</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:55.738391Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>6.9104594</snr>
+      <pickID>smi:scs/0.6/20130429.225348.39-NZ.PRHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="PRHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp180560</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:27.286456Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225437.106997.498641">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>1.7287087</value>
+        <lowerUncertainty>0.12022596</lowerUncertainty>
+        <upperUncertainty>0.12022596</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:57.313393Z</reference>
+        <begin>-0.285</begin>
+        <end>0.285</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225349.14-NZ.PXZ.10.HHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="PXZ" locationCode="10" channelCode="HH">smi:scs/0.6/NA-idp188240</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:37.107124Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225436.304207.498637">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>0.75331016</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:53.958393Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>2.0367048</snr>
+      <pickID>smi:scs/0.6/20130429.225349.14-NZ.PXZ.10.HHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="PXZ" locationCode="10" channelCode="HHZ">smi:scs/0.6/NA-idp195408</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:36.304314Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225440.913958.498647">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>1.2331015</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:57.510868Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>12.727431</snr>
+      <pickID>smi:scs/0.6/20130429.225349.85-NZ.TSZ.10.HHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="TSZ" locationCode="10" channelCode="HHZ">smi:scs/0.6/NA-idp202576</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:40.914026Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225423.356197.498625">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>4.1635916</value>
+        <lowerUncertainty>0.51402787</lowerUncertainty>
+        <upperUncertainty>0.51402787</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:54.933392Z</reference>
+        <begin>-1.964999</begin>
+        <end>1.965</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225347.16-NZ.WPHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="WPHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp210224</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:23.356303Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225423.361989.498627">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>2.9227418</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:55.808393Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>51.264087</snr>
+      <pickID>smi:scs/0.6/20130429.225347.16-NZ.WPHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="WPHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp217424</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:23.362066Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225444.220871.498653">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>0.86879186</value>
+        <lowerUncertainty>0.044715583</lowerUncertainty>
+        <upperUncertainty>0.044715583</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:54:02.278391Z</reference>
+        <begin>-0.619999</begin>
+        <end>0.620001</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225351.35-NZ.KAHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="KAHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp225104</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:44.220972Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225445.825619.498655">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>2.2150667</value>
+        <lowerUncertainty>0.58348985</lowerUncertainty>
+        <upperUncertainty>0.58348985</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:57.145867Z</reference>
+        <begin>-0.105</begin>
+        <end>0.105001</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225349.85-NZ.TSZ.10.HHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="TSZ" locationCode="10" channelCode="HH">smi:scs/0.6/NA-idp232784</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:45.825728Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225449.236161.498657">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>0.27120325</value>
+        <lowerUncertainty>0.014877431</lowerUncertainty>
+        <upperUncertainty>0.014877431</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:54:03.908393Z</reference>
+        <begin>-0.329999</begin>
+        <end>0.330001</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225353.78-NZ.PRWZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="PRWZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp240432</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:49.236248Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225451.236394.498659">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>0.16647849</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:54:04.118393Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>4.0866801</snr>
+      <pickID>smi:scs/0.6/20130429.225353.78-NZ.PRWZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="PRWZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp247632</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:51.236519Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225507.288487.498744">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>0.37816731</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:53:53.898394Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>32.161414</snr>
+      <pickID>smi:scs/0.6/20130429.225353.74-NZ.BHHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="BHHZ" locationCode="10" channelCode="EHZ">smi:scs/0.6/NA-idp254832</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:55:07.288595Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225507.298074.498746">
+      <type>MLv</type>
+      <genericAmplitude>
+        <value>0.27595157</value>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:54:04.348398Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>2.2025285</snr>
+      <pickID>smi:scs/0.6/20130429.225353.47-NZ.BFZ.10.HHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="BFZ" locationCode="10" channelCode="HHZ">smi:scs/0.6/NA-idp262032</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:55:07.298186Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225507.309502.498748">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>0.30180157</value>
+        <lowerUncertainty>0.035976925</lowerUncertainty>
+        <upperUncertainty>0.035976925</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:54:05.378397Z</reference>
+        <begin>-0.049999</begin>
+        <end>0.050001</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225353.47-NZ.BFZ.10.HHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="BFZ" locationCode="10" channelCode="HH">smi:scs/0.6/NA-idp269680</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:55:07.309598Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="smi:scs/0.6/Amplitude#20130429225507.317072.498750">
+      <type>ML</type>
+      <genericAmplitude>
+        <value>0.57791951</value>
+        <lowerUncertainty>0.11201661</lowerUncertainty>
+        <upperUncertainty>0.11201661</upperUncertainty>
+      </genericAmplitude>
+      <timeWindow>
+        <reference>2013-04-29T22:54:03.703393Z</reference>
+        <begin>-0.004999</begin>
+        <end>0.005</end>
+      </timeWindow>
+      <pickID>smi:scs/0.6/20130429.225353.74-NZ.BHHZ.10.EHZ</pickID>
+      <waveformID networkCode="NZ" stationCode="BHHZ" locationCode="10" channelCode="EH">smi:scs/0.6/NA-idp277328</waveformID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scamp@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:55:07.317158Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <origin publicID="smi:scs/0.6/NLL.20130429225437.756854.3816785">
+      <time>
+        <value>2013-04-29T22:53:41.038153Z</value>
+      </time>
+      <latitude>
+        <value>-40.079396</value>
+        <uncertainty>1.4750655</uncertainty>
+      </latitude>
+      <longitude>
+        <value>176.44021</value>
+        <uncertainty>1.445391</uncertainty>
+      </longitude>
+      <depth>
+        <value>35.585938</value>
+        <uncertainty>2.7727103</uncertainty>
+      </depth>
+      <methodID>smi:scs/0.6/NonLinLoc</methodID>
+      <earthModelID>smi:scs/0.6/nz3drx</earthModelID>
+      <quality>
+        <associatedPhaseCount>16</associatedPhaseCount>
+        <usedPhaseCount>16</usedPhaseCount>
+        <usedStationCount>16</usedStationCount>
+        <standardError>0.24380417</standardError>
+        <azimuthalGap>61.404038</azimuthalGap>
+        <secondaryAzimuthalGap>96.488938</secondaryAzimuthalGap>
+        <groundTruthLevel>-</groundTruthLevel>
+        <maximumDistance>1.7654579</maximumDistance>
+        <minimumDistance>0.013398384</minimumDistance>
+        <medianDistance>0.60879472</medianDistance>
+      </quality>
+      <originUncertainty>
+        <horizontalUncertainty>2.2607207</horizontalUncertainty>
+        <minHorizontalUncertainty>2.1676211</minHorizontalUncertainty>
+        <maxHorizontalUncertainty>2.2607207</maxHorizontalUncertainty>
+        <azimuthMaxHorizontalUncertainty>30.543736</azimuthMaxHorizontalUncertainty>
+        <confidenceEllipsoid>
+          <semiMajorAxisLength>5.3788333</semiMajorAxisLength>
+          <semiMinorAxisLength>2.4291267</semiMinorAxisLength>
+          <semiIntermediateAxisLength>2.7131566</semiIntermediateAxisLength>
+          <majorAxisPlunge>16.219399</majorAxisPlunge>
+          <majorAxisAzimuth>43.726263</majorAxisAzimuth>
+          <majorAxisRotation>74.027699</majorAxisRotation>
+        </confidenceEllipsoid>
+      </originUncertainty>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>screloc@scguiz-ak</author>
+        <creationTime>2013-04-29T22:54:41.870346Z</creationTime>
+      </creationInfo>
+      <arrival publicID="smi:scs/0.6/NA-idp298192">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225347.16-NZ.WPHZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>1.5291741</azimuth>
+        <distance>0.013398384</distance>
+        <timeResidual>0.058903693</timeResidual>
+        <timeWeight>1.870411</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp305648">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225348.39-NZ.PRHZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>143.17021</azimuth>
+        <distance>0.23570973</distance>
+        <timeResidual>-0.10921051</timeResidual>
+        <timeWeight>1.8293973</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp308896">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225349.53-NZ.DVHZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>224.54261</azimuth>
+        <distance>0.31030077</distance>
+        <timeResidual>0.067625159</timeResidual>
+        <timeWeight>1.8028615</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp312144">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225349.14-NZ.PXZ.10.HHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>81.766172</azimuth>
+        <distance>0.32809126</distance>
+        <timeResidual>-0.43426563</timeResidual>
+        <timeWeight>0.90413944</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp315392">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225349.85-NZ.TSZ.10.HHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>272.98646</azimuth>
+        <distance>0.36645904</distance>
+        <timeResidual>-0.1517123</timeResidual>
+        <timeWeight>1.7252478</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp318640">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225350.30-NZ.ANWZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>178.25511</azimuth>
+        <distance>0.38220602</distance>
+        <timeResidual>0.04511608</timeResidual>
+        <timeWeight>1.8065092</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp321888">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225351.35-NZ.KAHZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>50.650761</azimuth>
+        <distance>0.44703503</distance>
+        <timeResidual>0.19440693</timeResidual>
+        <timeWeight>1.4939908</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp325136">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225353.78-NZ.PRWZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>218.17446</azimuth>
+        <distance>0.60665367</distance>
+        <timeResidual>0.28749191</timeResidual>
+        <timeWeight>1.2414816</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp328384">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225359.30-NZ.POWZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>239.06705</azimuth>
+        <distance>0.61093577</distance>
+        <timeResidual>5.8664795</timeResidual>
+        <timeWeight>0.0053100458</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp331632">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225353.47-NZ.BFZ.10.HHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>195.83044</azimuth>
+        <distance>0.62561314</distance>
+        <timeResidual>-0.25113243</timeResidual>
+        <timeWeight>1.4475533</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp334880">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225353.74-NZ.BHHZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>335.53907</azimuth>
+        <distance>0.64815649</distance>
+        <timeResidual>-0.20528977</timeResidual>
+        <timeWeight>1.5301533</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp338128">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225355.09-NZ.MCHZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>19.320563</azimuth>
+        <distance>0.67297186</distance>
+        <timeResidual>0.74277382</timeResidual>
+        <timeWeight>0.29220324</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp341376">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225406.96-NZ.CPWZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>194.34761</azimuth>
+        <distance>0.85696957</distance>
+        <timeResidual>9.9262951</timeResidual>
+        <timeWeight>0.00018486907</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp344624">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225359.47-NZ.TMWZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>203.84487</azimuth>
+        <distance>1.1247027</distance>
+        <timeResidual>-1.4072775</timeResidual>
+        <timeWeight>0.044553494</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp347872">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225403.27-NZ.PKVZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>313.99244</azimuth>
+        <distance>1.1348734</distance>
+        <timeResidual>2.4284509</timeResidual>
+        <timeWeight>0.00050816244</timeWeight>
+      </arrival>
+      <arrival publicID="smi:scs/0.6/NA-idp351120">
+        <comment/>
+        <pickID>smi:scs/0.6/20130429.225417.79-NZ.PLWZ.10.EHZ</pickID>
+        <phase>P</phase>
+        <timeCorrection>0</timeCorrection>
+        <azimuth>212.36451</azimuth>
+        <distance>1.7654579</distance>
+        <timeResidual>7.4857434</timeResidual>
+        <timeWeight>0.0054949148</timeWeight>
+      </arrival>
+    </origin>
+    <event publicID="smi:scs/0.6/2013p321497">
+      <preferredOriginID>smi:scs/0.6/NLL.20130429225437.756854.3816785</preferredOriginID>
+      <preferredMagnitudeID>smi:scs/0.6/NLL.20130429225437.756854.3816785#netMag.M</preferredMagnitudeID>
+      <creationInfo>
+        <agencyID>WEL(GNS_Primary)</agencyID>
+        <author>scevent@scz-ak.geonet.org.nz</author>
+        <creationTime>2013-04-29T22:54:07.752596Z</creationTime>
+      </creationInfo>
+      <originReference>smi:scs/0.6/NLL.20130429225437.756854.3816785</originReference>
+    </event>
+  </eventParameters>
+</q:quakeml>
