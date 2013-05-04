@@ -24,6 +24,7 @@ package nz.org.geonet.simplequakeml.domain;
 
 import org.joda.time.DateTime;
 
+import org.joda.time.DateTimeZone;
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.Root;
 
@@ -106,7 +107,7 @@ public class Pick {
      * there may be a precision loss compared to getTimeString().
      */
     public DateTime getTime() {
-        return new DateTime(this.time);
+        return new DateTime(this.time).withZone(DateTimeZone.UTC);
     }
 
     /**

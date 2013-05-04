@@ -24,6 +24,7 @@ package nz.org.geonet.simplequakeml.domain;
 
 import org.joda.time.DateTime;
 
+import org.joda.time.DateTimeZone;
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.ElementList;
 import org.simpleframework.xml.Root;
@@ -68,7 +69,7 @@ public class Event {
     }
 
     public Event(String publicID, String type, String agencyID, String time, float latitude, float longitude,
-                 float depth, float magnitude, String magnitudeType) {
+                 float depth, float magnitude, String magnitudeType, List<Pick> picks) {
         this.publicID = publicID;
         this.type = type;
         this.agencyID = agencyID;
@@ -78,6 +79,7 @@ public class Event {
         this.depth = depth;
         this.magnitude = magnitude;
         this.magnitudeType = magnitudeType;
+        this.picks = picks;
     }
 
     /**
@@ -130,7 +132,7 @@ public class Event {
      * there may be a precision loss compared to getTimeString().
      */
     public DateTime getTime() {
-        return new DateTime(this.time);
+        return new DateTime(this.time).withZone(DateTimeZone.UTC);
     }
 
     /**
